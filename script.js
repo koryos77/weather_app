@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const apiKey = 'cfc4ec3ead6a3e6214af7af6ed72a838';
+    const apiKey = 'cfc4ec3ead6a3e6214af7af6ed72a838'; // API key not valid anymore
 
     const cityInput = document.getElementById('city-input');
     const getWeatherButton = document.getElementById('get-weather');
